@@ -3,7 +3,7 @@ loaderVersion="[36,)"
 license="All rights reserved"
 [[mods]]
 modId="pan"
-version="${file.jarVersion}"
+version="0.69"
 displayName="PanTheMod_"
 logoFile="examplemod.png"
 credits="Sub with Prime Gaming"
